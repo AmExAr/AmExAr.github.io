@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.22090a9b.css",
+    "main.js": "/static/js/main.b98dde4e.js",
+    "static/media/Фон1.png": "/static/media/Фон1.caf068da24dcc1de32dd.png",
+    "static/media/блок3.png": "/static/media/блок3.e5f9ed585c560b47e3d8.png",
+    "static/media/блок1.png": "/static/media/блок1.2b8609667293cf92fbb4.png",
+    "static/media/блок2.png": "/static/media/блок2.d37b81a9d8d4656fba64.png",
+    "static/media/Карта.png": "/static/media/Карта.13cbacd28e4e1dd9db97.png",
+    "static/media/Плашка 4.png": "/static/media/Плашка 4.4792b4ed5374d40dc96b.png",
+    "static/media/Плашка 1.png": "/static/media/Плашка 1.2c7a1f39adad2753ed1e.png",
+    "static/media/Плашка 3.png": "/static/media/Плашка 3.6eb737feb862c4a4a4c1.png",
+    "static/media/Плашка 2.png": "/static/media/Плашка 2.47ae5fa6a16dba956154.png",
+    "static/media/favicon.ico": "/static/media/favicon.b708085fc267d62a1e74.ico",
+    "static/media/круг2.png": "/static/media/круг2.a458449ba1cae55316f8.png",
+    "static/media/круг3.png": "/static/media/круг3.bd06959790e93a9ffc09.png",
+    "static/media/круг1.png": "/static/media/круг1.59453158a9e319794664.png",
+    "static/media/круг4.png": "/static/media/круг4.c0b43723563f4f233cdf.png",
+    "index.html": "/index.html",
+    "main.22090a9b.css.map": "/static/css/main.22090a9b.css.map",
+    "main.b98dde4e.js.map": "/static/js/main.b98dde4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22090a9b.css",
+    "static/js/main.b98dde4e.js"
+  ]
+}
